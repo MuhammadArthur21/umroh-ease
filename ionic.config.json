@@ -1,0 +1,8 @@
+{
+  "name": "Umroh-Ease",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "22ae6d7f"
+}
