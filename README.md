@@ -1,6 +1,6 @@
 🌙 Deskripsi Produk
 
-Umroh Ease adalah aplikasi panduan umroh berbasis web yang dirancang untuk membantu jamaah menjalani ibadah dengan lebih tenang, terarah, dan mudah. Aplikasi ini menghadirkan panduan manasik, kumpulan doa, paket umroh, Al-Qur’an digital, peta lokasi Sa’i & Masjidil Haram, kalender global, dan informasi kontak—all in one place.
+Umroh Ease adalah aplikasi panduan umroh berbasis web yang dirancang untuk membantu jamaah menjalani ibadah dengan lebih tenang, terarah, dan mudah. Aplikasi ini menghadirkan panduan manasik, kumpulan doa, paket umroh, Al-Qur’an digital, peta lokasi Sa’i & Masjidil Haram, kalender global, dan informasi kontak - all in one place.
 
 Aplikasi bersifat mobile-first, ringan, dan dapat diakses langsung melalui browser tanpa instalasi.
 
